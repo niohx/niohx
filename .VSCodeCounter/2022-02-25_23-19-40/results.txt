@@ -1,0 +1,78 @@
+Date : 2022-02-25 23:19:40
+Directory : \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src
+Total : 45 files,  1402 codes, 33 comments, 191 blanks, all 1626 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| TypeScript React |         23 |        839 |          5 |        109 |        953 |
+| TypeScript       |         16 |        545 |         28 |         75 |        648 |
+| Less             |          6 |         18 |          0 |          7 |         25 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                     | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                        |         45 |      1,402 |         33 |        191 |      1,626 |
+| atoms                                                                                                    |          1 |          0 |          7 |          3 |         10 |
+| components                                                                                               |         10 |        436 |          2 |         50 |        488 |
+| components\floormap                                                                                      |          8 |        386 |          2 |         42 |        430 |
+| hooks                                                                                                    |         11 |        512 |         21 |         62 |        595 |
+| layouts                                                                                                  |          3 |         58 |          0 |         11 |         69 |
+| models                                                                                                   |          4 |         33 |          0 |         10 |         43 |
+| pages                                                                                                    |         15 |        354 |          3 |         52 |        409 |
++----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                 | language         | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\404.tsx                                  | TypeScript React |          9 |          0 |          3 |         12 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\atoms\CurrentFloorAtom.ts                | TypeScript       |          0 |          7 |          3 |         10 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\GeneralTermsInputForm.tsx     | TypeScript React |         34 |          0 |          4 |         38 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\GeneralTermsRenderer.tsx      | TypeScript React |         16 |          0 |          4 |         20 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorCard.tsx        | TypeScript React |         92 |          1 |          7 |        100 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorDeleteModal.tsx | TypeScript React |         30 |          0 |          4 |         34 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorEditForm.tsx    | TypeScript React |         53 |          0 |          4 |         57 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorEditModal.tsx   | TypeScript React |         52 |          1 |          7 |         60 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorImage.tsx       | TypeScript React |         51 |          0 |          6 |         57 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorMaps.tsx        | TypeScript React |         32 |          0 |          5 |         37 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\ImageSelector.tsx    | TypeScript React |         39 |          0 |          6 |         45 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\ReorderFloorMap.tsx  | TypeScript React |         37 |          0 |          3 |         40 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useDownloadURL.ts                  | TypeScript       |          1 |          0 |          1 |          2 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorMap.ts                     | TypeScript       |         80 |          6 |         10 |         96 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorModels.ts                  | TypeScript       |         61 |          2 |          6 |         69 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorOrder.ts                   | TypeScript       |         35 |          0 |          4 |         39 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useGeneralTerms.ts                 | TypeScript       |         63 |          1 |          7 |         71 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenu.ts                     | TypeScript       |          0 |          0 |          1 |          1 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenuModels.ts               | TypeScript       |         64 |          2 |          7 |         73 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenuOrder.ts                | TypeScript       |         35 |          0 |          4 |         39 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenuModels.ts                   | TypeScript       |         61 |          2 |          6 |         69 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenuOrder.ts                    | TypeScript       |         33 |          0 |          6 |         39 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenus.ts                        | TypeScript       |         79 |          8 |         10 |         97 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Footer.tsx                       | TypeScript React |          3 |          0 |          3 |          6 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Header.tsx                       | TypeScript React |         27 |          0 |          4 |         31 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Skelton.tsx                      | TypeScript React |         28 |          0 |          4 |         32 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\floor.ts                          | TypeScript       |          8 |          0 |          2 |         10 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\generalterms.ts                   | TypeScript       |          6 |          0 |          2 |          8 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\homeMenu.ts                       | TypeScript       |         11 |          0 |          4 |         15 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\menu.ts                           | TypeScript       |          8 |          0 |          2 |         10 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\404.tsx                            | TypeScript React |          9 |          0 |          3 |         12 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\authwrapper.tsx                    | TypeScript React |         21 |          0 |          2 |         23 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\firebasewrapper.tsx                | TypeScript React |         38 |          0 |          6 |         44 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\floormap.less                      | Less             |          3 |          0 |          1 |          4 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\floormap.tsx                       | TypeScript React |         43 |          0 |          5 |         48 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\generalterms.less                  | Less             |          3 |          0 |          1 |          4 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\generalterms.tsx                   | TypeScript React |         32 |          0 |          5 |         37 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\login.less                         | Less             |          3 |          0 |          1 |          4 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\login.tsx                          | TypeScript React |         40 |          0 |          9 |         49 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\menus.less                         | Less             |          3 |          0 |          2 |          5 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\menus.tsx                          | TypeScript React |         28 |          0 |          4 |         32 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\user.less                          | Less             |          3 |          0 |          1 |          4 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\user.tsx                           | TypeScript React |        112 |          3 |          7 |        122 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\works.less                         | Less             |          3 |          0 |          1 |          4 |
+| \\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\works.tsx                          | TypeScript React |         13 |          0 |          4 |         17 |
+| Total                                                                                                    |                  |      1,402 |         33 |        191 |      1,626 |
++----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

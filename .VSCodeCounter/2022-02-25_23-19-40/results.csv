@@ -1,0 +1,47 @@
+"filename", "language", "TypeScript React", "TypeScript", "Less", "comment", "blank", "total"
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\404.tsx", "TypeScript React", 9, 0, 0, 0, 3, 12
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\atoms\CurrentFloorAtom.ts", "TypeScript", 0, 0, 0, 7, 3, 10
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\GeneralTermsInputForm.tsx", "TypeScript React", 34, 0, 0, 0, 4, 38
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\GeneralTermsRenderer.tsx", "TypeScript React", 16, 0, 0, 0, 4, 20
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorCard.tsx", "TypeScript React", 92, 0, 0, 1, 7, 100
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorDeleteModal.tsx", "TypeScript React", 30, 0, 0, 0, 4, 34
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorEditForm.tsx", "TypeScript React", 53, 0, 0, 0, 4, 57
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorEditModal.tsx", "TypeScript React", 52, 0, 0, 1, 7, 60
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorImage.tsx", "TypeScript React", 51, 0, 0, 0, 6, 57
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\FloorMaps.tsx", "TypeScript React", 32, 0, 0, 0, 5, 37
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\ImageSelector.tsx", "TypeScript React", 39, 0, 0, 0, 6, 45
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\components\floormap\ReorderFloorMap.tsx", "TypeScript React", 37, 0, 0, 0, 3, 40
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useDownloadURL.ts", "TypeScript", 0, 1, 0, 0, 1, 2
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorMap.ts", "TypeScript", 0, 80, 0, 6, 10, 96
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorModels.ts", "TypeScript", 0, 61, 0, 2, 6, 69
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useFloorOrder.ts", "TypeScript", 0, 35, 0, 0, 4, 39
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useGeneralTerms.ts", "TypeScript", 0, 63, 0, 1, 7, 71
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenu.ts", "TypeScript", 0, 0, 0, 0, 1, 1
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenuModels.ts", "TypeScript", 0, 64, 0, 2, 7, 73
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useHomeMenuOrder.ts", "TypeScript", 0, 35, 0, 0, 4, 39
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenuModels.ts", "TypeScript", 0, 61, 0, 2, 6, 69
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenuOrder.ts", "TypeScript", 0, 33, 0, 0, 6, 39
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\hooks\useMenus.ts", "TypeScript", 0, 79, 0, 8, 10, 97
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Footer.tsx", "TypeScript React", 3, 0, 0, 0, 3, 6
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Header.tsx", "TypeScript React", 27, 0, 0, 0, 4, 31
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\layouts\Skelton.tsx", "TypeScript React", 28, 0, 0, 0, 4, 32
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\floor.ts", "TypeScript", 0, 8, 0, 0, 2, 10
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\generalterms.ts", "TypeScript", 0, 6, 0, 0, 2, 8
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\homeMenu.ts", "TypeScript", 0, 11, 0, 0, 4, 15
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\models\menu.ts", "TypeScript", 0, 8, 0, 0, 2, 10
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\404.tsx", "TypeScript React", 9, 0, 0, 0, 3, 12
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\authwrapper.tsx", "TypeScript React", 21, 0, 0, 0, 2, 23
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\firebasewrapper.tsx", "TypeScript React", 38, 0, 0, 0, 6, 44
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\floormap.less", "Less", 0, 0, 3, 0, 1, 4
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\floormap.tsx", "TypeScript React", 43, 0, 0, 0, 5, 48
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\generalterms.less", "Less", 0, 0, 3, 0, 1, 4
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\generalterms.tsx", "TypeScript React", 32, 0, 0, 0, 5, 37
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\login.less", "Less", 0, 0, 3, 0, 1, 4
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\login.tsx", "TypeScript React", 40, 0, 0, 0, 9, 49
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\menus.less", "Less", 0, 0, 3, 0, 2, 5
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\menus.tsx", "TypeScript React", 28, 0, 0, 0, 4, 32
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\user.less", "Less", 0, 0, 3, 0, 1, 4
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\user.tsx", "TypeScript React", 112, 0, 0, 3, 7, 122
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\works.less", "Less", 0, 0, 3, 0, 1, 4
+"\\wsl.localhost\Ubuntu\home\nioh\document\hotel_setting_app\src\pages\works.tsx", "TypeScript React", 13, 0, 0, 0, 4, 17
+"Total", "-", 839, 545, 18, 33, 191, 1626
